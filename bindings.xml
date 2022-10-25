@@ -1,0 +1,22 @@
+<!-- To get the XML to load properly, exit out of game and reload client -->
+<Bindings>
+	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+		<Category name="Keybind Houses">
+			<Action name="KBH1">
+				<Down>KeybindHouses.travelTo(1)</Down>
+			</Action>
+			<Action name="KBH2">
+				<Down>KeybindHouses.travelTo(2)</Down>
+			</Action>
+			<Action name="KBH3">
+				<Down>KeybindHouses.travelTo(3)</Down>
+			</Action>
+			<Action name="KBH4">
+				<Down>KeybindHouses.travelTo(4)</Down>
+			</Action>
+			<Action name="KBH5">
+				<Down>KeybindHouses.travelTo(5)</Down>
+			</Action>
+		</Category>
+	</Layer>
+</Bindings>
